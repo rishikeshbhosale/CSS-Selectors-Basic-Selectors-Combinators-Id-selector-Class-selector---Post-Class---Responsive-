@@ -31,11 +31,11 @@
     padding: 1rem;
   }
   .profile-image {
-    width: 55%;
+    width: 57%;
     display: block;
     margin: auto;
     border: 5px solid white;
-    border-radius: 30%;
+    border-radius: 15%;
   }
   .name {
     font-size: 1.2rem;
